@@ -159,7 +159,7 @@
 	var gsAppName           = "ASPsh";
 	var gsAppVersion        = "v1.0";
 	var gsAuthor            = "Berend-Jan &quot;SkyLined&quot; Wever";
-	var gsCopyright         = "Copyright (C) 2003-2007";
+	var gsCopyright         = "Copyright (C) 2003-2010";
 
 	var goWSS               = new ActiveXObject("WScript.Shell");
 
